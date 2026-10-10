@@ -102,7 +102,7 @@ of git).
 **Codex CLI** — reference it from an environment variable in `~/.codex/config.toml`:
 
 ```toml
-# export VIBSYNC_TOKEN=vs2.__your-issued-token-here__
+# export VIBSYNC_TOKEN="<your-machine-token>"
 
 [mcp_servers.vibsync]
 url = "https://mcp.vibsync.com/mcp"
@@ -118,7 +118,7 @@ bearer_token_env_var = "VIBSYNC_TOKEN"
       "type": "http",
       "url": "https://mcp.vibsync.com/mcp",
       "headers": {
-        "Authorization": "Bearer vs2.__your-issued-token-here__"
+        "Authorization": "Bearer <your-machine-token>"
       }
     }
   }

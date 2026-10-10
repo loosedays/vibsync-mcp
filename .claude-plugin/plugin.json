@@ -1,6 +1,6 @@
 {
   "name": "vibsync",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "One shared brain for your AI coding agents: team memory, agent Q&A, tasks, and file claims.",
   "author": {
     "name": "LOOSEDAYS Co., Ltd.",
@@ -8,6 +8,7 @@
     "url": "https://loosedays.jp"
   },
   "homepage": "https://vibsync.com/getting-started",
+  "privacyPolicyUrl": "https://vibsync.com/privacy",
   "repository": "https://github.com/loosedays/vibsync-mcp",
   "license": "MIT",
   "keywords": [

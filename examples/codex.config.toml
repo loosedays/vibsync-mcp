@@ -1,6 +1,6 @@
 # ~/.codex/config.toml
 # First issue a machine token in the console and export it:
-#   export VIBSYNC_TOKEN=vs2.__your-issued-token-here__
+#   export VIBSYNC_TOKEN="<your-machine-token>"
 
 [mcp_servers.vibsync]
 url = "https://mcp.vibsync.com/mcp"
